@@ -1,0 +1,1 @@
+Guide for constructing personal parallel computational cluster using single board computers. This build will use 5x Raspberry pi 4s, and 4x Raspberry Pi 5s. This setup will have the end goal of enhancing computational processing effeciency without relying on  a centralized server to distribute tasks.

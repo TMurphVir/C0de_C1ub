@@ -1,0 +1,1 @@
+Temporary file for holding quality of life codes for annoying/ common data import, cleaning, and pre-processing  tasks. The code stored here will eventually be transformed into markdown format.
